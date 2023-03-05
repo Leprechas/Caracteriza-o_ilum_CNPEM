@@ -4,13 +4,13 @@ Esse GitHub é para fins educacionais e tem o objetivo de criar um Resumo/Guia/M
 Sumário das técnicas aprendidas até o 2 semestre; (Autor, status)
 - Microscopia óptica (V, ok)
 - Eletroforese (Vih, em andamento)
-- AFM (M, em andamento)
+- AFM (M, ok)
 - Leitor de Placas (V, ok)
 - STM (A, em andamento)
 - Espectrômetro RAMAN (D, em andamento)
 - FTIR (V, ok)
-- UV-Vis (B, em andamento)
-- Espectroscopia de fluorescência (D, em andamento)
+- UV-Vis (D, em andamento)
+- Espectroscopia de fluorescência (B, ok)
 - MEV (D, em andamento)
 - Microscopia metalográfica (Y, em andamento)
 - DLS e Zeta (A, em andamento)
@@ -20,9 +20,9 @@ Sumário das técnicas aprendidas até o 2 semestre; (Autor, status)
 - Tratamento de dados (G, em andamento)
 - ...
 
-Em andamento: 10
+Em andamento: 8
 
-Ok: 6
+Ok: 8
 
 Autores: Vitor Barelli, Débora van Putten, Artur Kimura, Paola Ferrari, Monyque Silva, Barbara Rodrigues, Vitória Nicoleti, Ygor Ruas e Guilherme Dariani.
 
