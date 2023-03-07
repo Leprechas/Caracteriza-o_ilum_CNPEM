@@ -3,7 +3,7 @@ Esse GitHub é para fins educacionais e tem o objetivo de criar um Resumo/Guia/M
 
 Sumário das técnicas aprendidas até o 2 semestre; (Autor, status)
 - Microscopia óptica (V, ok)
-- Eletroforese (Vih, em andamento)
+- Eletroforese (Vih, ok)
 - AFM (M, ok)
 - Leitor de Placas (V, ok)
 - STM (A, em andamento)
