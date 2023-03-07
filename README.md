@@ -20,9 +20,9 @@ Sumário das técnicas aprendidas até o 2 semestre; (Autor, status)
 - Tratamento de dados (G, em andamento)
 - ...
 
-Em andamento: 8
+Em andamento: 7
 
-Ok: 8
+Ok: 9
 
 Autores: Vitor Barelli, Débora van Putten, Artur Kimura, Paola Ferrari, Monyque Silva, Barbara Rodrigues, Vitória Nicoleti, Ygor Ruas e Guilherme Dariani.
 
