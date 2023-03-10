@@ -12,19 +12,18 @@ Sumário das técnicas aprendidas até o 2 semestre; (Autor, status)
 - UV-Vis (?, ?)
 - Espectroscopia de fluorescência (B, ok)
 - MEV (D, em andamento)
-- Microscopia metalográfica (Y, em andamento)
+- Microscopia metalográfica (Y, ok)
 - DLS e Zeta (A, em andamento)
 - Microscopia ótica confocal (P, ok)
 - XPS (V, ok)
 - Eletroforese de proteínas (V, ok)
-- Tratamento de dados (G, em andamento)
 - ...
 
-Em andamento: 7
+Em andamento: 5
 
-Ok: 9
+Ok: 10
 
-Autores: Vitor Barelli, Débora van Putten, Artur Kimura, Paola Ferrari, Monyque Silva, Barbara Rodrigues, Vitória Nicoleti, Ygor Ruas e Guilherme Dariani.
+Autores: Vitor Barelli, Débora van Putten, Artur Kimura, Paola Ferrari, Monyque Silva, Barbara Rodrigues, Vitória Nicoleti e Ygor Ruas.
 
 Caso encontrem algum erro nas informações dos resumos, procure o autor e proponha uma mudança.
 
