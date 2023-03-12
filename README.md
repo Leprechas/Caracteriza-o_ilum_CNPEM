@@ -9,7 +9,7 @@ Sumário das técnicas aprendidas até o 2 semestre; (Autor, status)
 - STM (A, em andamento)
 - Espectrômetro RAMAN (D, em andamento)
 - FTIR (V, ok)
-- UV-Vis (?, ?)
+- UV-Vis (V, ok)
 - Espectroscopia de fluorescência (B, ok)
 - MEV (D, em andamento)
 - Microscopia metalográfica (Y, ok)
@@ -19,9 +19,9 @@ Sumário das técnicas aprendidas até o 2 semestre; (Autor, status)
 - Eletroforese de proteínas (V, ok)
 - ...
 
-Em andamento: 5
+Em andamento: 4
 
-Ok: 10
+Ok: 11
 
 Autores: Vitor Barelli, Débora van Putten, Artur Kimura, Paola Ferrari, Monyque Silva, Barbara Rodrigues, Vitória Nicoleti e Ygor Ruas.
 
