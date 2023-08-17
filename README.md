@@ -1,31 +1,24 @@
 # Caracteriza-o_ilum_CNPEM
 Esse GitHub é para fins educacionais e tem o objetivo de criar um Resumo/Guia/Manual/Norte sobre as técnicas e métodos de caracterização, para auxiliar os alunos nos seus estudos! LEIA no fim desse README os avisos sobre direitos autorais desse material antes de utiliza-ló:
 
-Sumário das técnicas aprendidas até o 2 semestre; (Autor, status)
-- Manual de Vidrarias e Equipamentos do Laboratório
-Úmido (AB, ok)
-- Microscopia óptica (V, ok)
-- Eletroforese (Vih, ok)
-- AFM (M, ok)
-- Leitor de Placas (V, ok)
-- STM (A, em andamento)
-- Espectrômetro RAMAN (D, em andamento)
-- FTIR (V, ok)
-- UV-Vis (V, ok)
-- Espectroscopia de fluorescência (B, ok)
-- MEV (D, em andamento)
-- Microscopia metalográfica (Y, ok)
-- DLS e Zeta (A, em andamento)
-- Microscopia ótica confocal (P, ok)
-- XPS (V, ok)
-- Eletroforese de proteínas (V, ok)
-- ...
+Sumário das técnicas aprendidas até o 2 semestre;
+- Microscopia óptica 
+- Eletroforese
+- AFM
+- Leitor de Placas
+- STM (Não pronto)
+- Espectrômetro RAMAN (Não pronto)
+- FTIR
+- UV-Vis
+- Espectroscopia de fluorescência
+- MEV (Não pronto)
+- Microscopia metalográfica
+- DLS e Zeta (Não pronto)
+- Microscopia ótica confocal
+- XPS
+- Eletroforese de proteínas
 
-Em andamento: 4
-
-Ok: 12
-
-Autores: Vitor Barelli, Débora van Putten, Artur Kimura, Paola Ferrari, Monyque Silva, Ana Clara Santos Brandão, Barbara Rodrigues, Vitória Nicoleti e Ygor Ruas.
+Autores: Vitor Barelli, Débora van Putten, Paola Ferrari, Monyque Silva, Ana Clara Santos Brandão, Barbara Rodrigues, Vitória Nicoleti e Ygor Ruas.
 
 Caso encontrem algum erro nas informações dos resumos, procure o autor e proponha uma mudança.
 
